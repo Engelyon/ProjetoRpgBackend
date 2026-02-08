@@ -31,6 +31,7 @@ util\UserSession.class
 dao\GenericDao.class
 util\TagListConverter$1.class
 dao\LocalDao.class
+util\RpgUtils.class
 dao\UsuarioDao.class
 model\Item.class
 dao\MagiaDao.class
